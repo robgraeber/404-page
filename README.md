@@ -1,4 +1,4 @@
-# landing-page-404
+# 404-Page
 Simple express server that serves a 404 landing page.
 
 To start:
