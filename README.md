@@ -1,7 +1,7 @@
 # 404-Page
 Simple express server that serves a 404 landing page.
 
-#####To start:
+### Usage:
 
 ```
 git clone https://github.com/robgraeber/404-page.git && cd 404-page 
